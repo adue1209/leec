@@ -25,7 +25,7 @@ $options = array (
     'test' => 'test',
   ),
   'template_used' => 'plugmod',
-  'default_language' => 'en',
+  'default_language' => 'vi',
   'show_all' => true,
   'server_info' => false,
   'ajax_refresh' => false,
