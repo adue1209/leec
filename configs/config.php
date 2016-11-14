@@ -19,10 +19,10 @@ $options = array (
   'notes_disable' => true,
   'upload_html_disable' => false,
   'myuploads_disable' => false,
-  'login' => false,
+  'login' => true,
   'users' => 
   array (
-    'test' => 'test',
+    'admin' => 'adue1209',
   ),
   'template_used' => 'plugmod',
   'default_language' => 'vi',
